@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.yjkj.test.API
+Class-Path: lib/commons-lang.jar lib/commons-logging-1.1.1.jar lib/log4j-1.2.16.jar lib/mysql-connector-java-5.1.37-bin.jar lib/quartz-2.2.3.jar lib/slf4j-api-1.7.7.jar lib/slf4j-log4j12-1.7.7.jar lib/spring.jar lib/gson-2.8.0.jar
